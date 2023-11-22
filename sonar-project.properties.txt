@@ -1,0 +1,14 @@
+# Унікальний ключ для проекту у SonarQube
+sonar.projectKey=my_project_key
+
+# Назва проекту (необов'язково)
+sonar.projectName=MyProject
+
+# Версія проекту (необов'язково)
+sonar.projectVersion=1.0
+
+# Шлях до джерела коду (відносно файлу sonar-project.properties)
+sonar.sources=.
+
+# Кодування джерела коду (за замовчуванням - системна кодування)
+sonar.sourceEncoding=UTF-8
